@@ -1,0 +1,12 @@
+
+.const-cont {
+    display: flex;
+    gap: 2vh;
+    flex-direction: column;
+}
+.center-sec{
+    text-align: center;
+}
+.ci-1{
+    margin-left: 45px;
+}

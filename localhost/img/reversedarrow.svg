@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <symbol height="22" id="svg_1" viewBox="0 0 41 22" width="41" xmlns="http://www.w3.org/2000/svg">
+   <line stroke="#9D9D9D" stroke-opacity="0.5" stroke-width="2" x1="0.707107" x2="20.8852" y1="0.879868" y2="21.058"/>
+   <path d="m19.485,21.1781l20.1781,-20.1781" stroke="#9D9D9D" stroke-opacity="0.5" stroke-width="2"/>
+  </symbol>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <use id="svg_2" transform="rotate(180 78.7712 43.0399) matrix(3.90244 0 0 3.90244 0 0)" xlink:href="#svg_1"/>
+  <g id="svg_3"/>
+ </g>
+</svg>
